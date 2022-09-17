@@ -1,0 +1,44 @@
+a{
+    color: black;
+}
+
+li:hover{
+    color: black;
+    text-decoration: underline;
+
+
+}
+
+.logo{
+    margin-left: 60px;
+}
+
+a:hover{
+    color: black;
+
+
+}
+
+#menu_button{
+    background-color: white;
+}
+
+.icon-bar {
+    color: black;
+    border-color: black;
+    background-color: black;
+  }
+
+  .container {
+    position: relative;
+    
+  }
+
+  .content{
+    position: absolute;
+    left: 30px;
+    top: 120px;
+  }
+
+
+  
